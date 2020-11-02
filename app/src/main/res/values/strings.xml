@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+    <string name="indian_covid19_nupdate">Indian Covid19 \n Update</string>
+    <string name="todo">TODO</string>
+    <string name="last_updated">last_updated</string>
+    <string name="confirmed">confirmed</string>
+    <string name="confirmed1">confirmed</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="deceased">Deceased</string>
+    <string name="state_city">State/City</string>
+    <string name="death1">Death</string>
+
+</resources>
